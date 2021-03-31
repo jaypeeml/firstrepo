@@ -2,7 +2,7 @@
 title: "Rmarkdown First report"
 author: "Jaiprakash Prajapati"
 date: "30/03/2021"
-output: github_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
